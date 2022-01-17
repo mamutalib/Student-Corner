@@ -6,6 +6,21 @@
 
 ## Get desired files shown as follows
 - ### [HSC](HSC/) <br>
-- ### [SSC](SSC/) <br>
+- ### [SSC](SSC/)
+    - Physics
+        - Chapter-1 
+            - MCQ-1
+            - MCQ-2
+            - MCQ-3
+    - Chemistry
+        - Chapter-1 
+            - MCQ-1
+            - MCQ-2
+            - MCQ-3
+    - Biology
+        - Chapter-1 
+            - MCQ-1
+            - MCQ-2
+            - MCQ-3
 
 ## Update is Comming Soon. 
