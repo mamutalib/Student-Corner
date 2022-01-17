@@ -9,21 +9,20 @@
 - [SSC](SSC/)
     - Physics
         - Chapter-1 
-            - [PDF](/SSC/Biology/Chapter1/MCQ-18.pdf)
-            - [MCQ-1](https://github.com/mamutalib/Student-Corner/blob/main/SSC/Physics/Chapter1/MCQ-19.pdf)
-            - [MCQ-2](https://github.com/mamutalib/Student-Corner/blob/main/SSC/Physics/Chapter1/MCQ-20.pdf)
-            - [MCQ-3](https://github.com/mamutalib/Student-Corner/blob/main/SSC/Physics/Chapter1/MCQ-21.pdf)
+            - [MCQ-1](/SSC/Physics/Chapter1/MCQ-19.pdf)
+            - [MCQ-2](/SSC/Physics/Chapter1/MCQ-20.pdf)
+            - [MCQ-3](/SSC/Physics/Chapter1/MCQ-21.pdf)
     - Chemistry
         - Chapter-1 
-            - MCQ-1
-            - MCQ-2
-            - MCQ-3
+            - [MCQ-1](/SSC/Chemistry/Chapter1/MCQ-19.pdf)
+            - [MCQ-2](/SSC/Chemistry/Chapter1/MCQ-20.pdf)
+            - [MCQ-3](/SSC/Chemistry/Chapter1/MCQ-21.pdf)
     - Biology
         - Chapter-1 
-            - MCQ-1
-            - MCQ-2
-            - MCQ-3
+            - [MCQ-1](/SSC/Biology/Chapter1/MCQ-18.pdf)
+            - [MCQ-2](/SSC/Biology/Chapter1/MCQ-19.pdf)
+            - [MCQ-3](/SSC/Biology/Chapter1/MCQ-20.pdf)
     - Math 
-        - [Chapter-1](https://github.com/mamutalib/Student-Corner/blob/14c2768ef524d3d4cb42a1ccfdc04436c333baf2/SSC/MATH/Math%20Model%20PDF/mthq0121.pdf)
+        - [Chapter-1](/SSC/MATH/Math%20Model%20PDF/mthq0121.pdf)
 
 ## Update is Comming Soon. 
