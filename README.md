@@ -22,5 +22,7 @@
             - MCQ-1
             - MCQ-2
             - MCQ-3
+    - Math 
+        - [Chapter-1](https://github.com/mamutalib/Student-Corner/blob/14c2768ef524d3d4cb42a1ccfdc04436c333baf2/SSC/MATH/Math%20Model%20PDF/mthq0121.pdf)
 
 ## Update is Comming Soon. 
