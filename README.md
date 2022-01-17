@@ -9,6 +9,7 @@
 - [SSC](SSC/)
     - Physics
         - Chapter-1 
+            - [PDF](/SSC/Biology/MCQ-18.pdf)
             - [MCQ-1](https://github.com/mamutalib/Student-Corner/blob/main/SSC/Physics/Chapter1/MCQ-19.pdf)
             - [MCQ-2](https://github.com/mamutalib/Student-Corner/blob/main/SSC/Physics/Chapter1/MCQ-20.pdf)
             - [MCQ-3](https://github.com/mamutalib/Student-Corner/blob/main/SSC/Physics/Chapter1/MCQ-21.pdf)
