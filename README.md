@@ -23,6 +23,6 @@
             - [MCQ-2](/SSC/Biology/Chapter1/MCQ-19.pdf)
             - [MCQ-3](/SSC/Biology/Chapter1/MCQ-20.pdf)
     - Math 
-        - [Chapter-1](/SSC/MATH/Math%20Model%20PDF/mthq0121.pdf)
+        - [Chapter-1](/SSC/MATH/Math-Model-PDF/mthq0121.pdf)
 
 ## Update is Comming Soon. 
