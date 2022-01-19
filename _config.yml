@@ -1,11 +1,11 @@
 title: Student-Corner
-theme: jekyll-theme-cayman
-gems:
-  - jemoji
-  - jekyll-relative-links
+## gems:
+##  - jemoji
+##  - jekyll-relative-links
+##
 markdown: kramdown
 kramdown:
    auto_ids: true
 twitter_username: mamutalibcse
-github_username: mamutalib
+## github_username: mamutalib
 
