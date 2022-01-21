@@ -5,7 +5,7 @@
 <!-- ![Github]("Docs/hello.gif")-->
 
 ## Get desired files shown as follows
-- [HSC](/HSC) <br>
+- [HSC](/HSC)
 - [SSC](/SSC)
     - Physics
         - Chapter-1 
