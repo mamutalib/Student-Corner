@@ -1,12 +1,2 @@
-title: Student-Corner
-description: Get your desired file from here. 
-
-markdown: kramdown
-kramdown:
-   auto_ids: 
-twitter_username: mamutalibcse
-github_username: mamutalib
-e-mail: mutalib.neub@gmail.com
-
-
-theme: jekyll-theme-hacker
+title: 
+description:
