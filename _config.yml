@@ -1,10 +1,10 @@
 title: Student-Corner
-## gems:
-##  - jemoji
-##  - jekyll-relative-links
+description: Get your desired file from here. 
+
 markdown: kramdown
 kramdown:
-   auto_ids: true
+   auto_ids: 
 twitter_username: mamutalibcse
 github_username: mamutalib
+e-mail: mutalib.neub@gmail.com
 
