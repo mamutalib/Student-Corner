@@ -1,12 +1,14 @@
 
 # Hi, <img src="Docs/hello.gif" width="35px" alt="Hi"> from Mutalib <img src="Docs/AbdulMutalib.jpeg" width="20px" alt="Mutalib">
 
-## Table of Content
+<p align="center" style="font-size:25px"> 
+Table of Content
+<nav>
+    
 - [HSC](https://mamutalib.github.io/Student-Corner/#hsc)
     - [Physics]()
     - [Biology]()
     - [Chemistry]()
-
 - [SSC](https://mamutalib.github.io/Student-Corner/#jsc)
     - [Physics](https://mamutalib.github.io/Student-Corner/#physics)
     - [Biology](https://mamutalib.github.io/Student-Corner/#biology)
@@ -15,6 +17,9 @@
     - [Islamic Studies]()
     - [Bangladesh & Global Studies]()
 - [JSC](https://mamutalib.github.io/Student-Corner/#jsc)
+</nav>
+</p>
+
 ## JSC 
 ## SSC
 ## Physics
@@ -63,10 +68,7 @@
     - [MCQ-4-20A](/SSC/Islamic-Studies/Chapter-4/Islam-MCQ-4-20A.pdf)
     - [MCQ-4-20B](/SSC/Islamic-Studies/Chapter-4/Islam-MCQ-4-20B.pdf)
 - Chater-5
-    - [MCQ-1-19A](/SSC/Islamic-Studies/Chapter-1/Islam-MCQ-1-19A.pdf)
-    - [MCQ-1-19B](/SSC/Islamic-Studies/Chapter-1/Islam-MCQ-1-19B.pdf)
-    - [MCQ-1-20A](/SSC/Islamic-Studies/Chapter-1/Islam-MCQ-1-20A.pdf)
-    - [MCQ-1-20B](/SSC/Islamic-Studies/Chapter-1/Islam-MCQ-1-20B.pdf)
+    - [MCQ-5-20A](/SSC/Islamic-Studies/Chapter-5/Islam-MCQ-5-20.pdf)
 
 
 ## HSC
