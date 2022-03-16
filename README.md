@@ -1,5 +1,5 @@
 
-# Hi, <img src="Docs/hello.gif" width="35px" alt="Hi"> from Mutalib <img src="Docs/AbdulMutalib.jpeg" width="50%px" alt="Mutalib">
+# Hi, <img src="Docs/hello.gif" width="35px" alt="Hi"> from Mutalib <img src="Docs/AbdulMutalib.jpeg" width="50" height="50" alt="Mutalib">
 
 <p align="center" style="font-size:25px"> 
 Table of Content</p>
@@ -13,10 +13,10 @@ Table of Content</p>
     - [Biology](https://mamutalib.github.io/Student-Corner/#biology)
     - [Chemistry](https://mamutalib.github.io/Student-Corner/#chemistry)
     - [General Math](https://mamutalib.github.io/Student-Corner/#general-math)
-    - [Islamic Studies]()
+    - [Islamic Studies](https://mamutalib.github.io/Student-Corner/#islamic-studies)
     - [Bangladesh & Global Studies]()
 - [JSC](https://mamutalib.github.io/Student-Corner/#jsc)
-</nav>
+
 
 
 ## JSC 
@@ -71,5 +71,9 @@ Table of Content</p>
 
 
 ## HSC
-I am Mohammad Mutalib. I am student. I live in Sylhet. 
-- 
+- Biology
+    - Biology 1st Paper
+    - Biology 2nd Paper
+- Physics
+- Chemistry
+- Higher Math
