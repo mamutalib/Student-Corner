@@ -1,10 +1,9 @@
 
-# Hi, <img src="Docs/hello.gif" width="35px" alt="Hi"> from Mutalib <img src="Docs/AbdulMutalib.jpeg" width="20px" alt="Mutalib">
+# Hi, <img src="Docs/hello.gif" width="35px" alt="Hi"> from Mutalib <img src="Docs/AbdulMutalib.jpeg" width="50%px" alt="Mutalib">
 
 <p align="center" style="font-size:25px"> 
-Table of Content
-<nav>
-    
+Table of Content</p>
+  
 - [HSC](https://mamutalib.github.io/Student-Corner/#hsc)
     - [Physics]()
     - [Biology]()
@@ -18,7 +17,7 @@ Table of Content
     - [Bangladesh & Global Studies]()
 - [JSC](https://mamutalib.github.io/Student-Corner/#jsc)
 </nav>
-</p>
+
 
 ## JSC 
 ## SSC
